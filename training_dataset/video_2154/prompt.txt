@@ -1,0 +1,1 @@
+circle rotating counter-clockwise
